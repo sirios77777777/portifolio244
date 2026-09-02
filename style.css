@@ -1,0 +1,17 @@
+*{
+    list-style: none;
+}
+
+header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 40px;
+border-bottom: 3px solid black;
+}
+
+.link8{
+display: flex;
+gap: 30px;
+justify-content: space-between;
+}
